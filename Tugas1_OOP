@@ -1,0 +1,4 @@
+nama="yolanda"
+kelas="XII RPL 3"
+umur="18 tahun"
+print("hallo,nama saya", nama, "dari kelas", kelas, "umur", umur, "tahun")
