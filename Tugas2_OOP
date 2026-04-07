@@ -1,0 +1,10 @@
+judul_cerita = "Toilet Angker Sekolah"
+tokoh_utama = "Josua"
+teman_1 = "Andi"
+teman_2 = "Iko"
+tempat="sekolah"
+
+print("Cerita Horor")
+print("judul cerita", judul_cerita)
+print("membuat cerita fiksi=Britayu")
+print("pada pagi hari",tokoh_utama,"akan pergi berangkat ke", tempat,"bersama temannya,ia bersiap siap untuk pergi ke", tempat,",dan sebelum temannya meninggalkannya.ia pun bergegas keluar dari pintu rumah setelah itu ternyata temannya sudah dari tadi menunggunya temanya ia lah bernama",teman_1,"dan",teman_2,".",tokoh_utama,",",teman_1,"dan",teman_2,"pun pergi ke", tempat,"naik sepeda masing2,di")
